@@ -1,4 +1,4 @@
-![Banner Image](https://raw.githubusercontent.com/Abepuoh/Abepuoh/main/ErTonix.png)
+<!-- ![Banner Image](https://raw.githubusercontent.com/Abepuoh/Abepuoh/main/ErTonix.png) -->
 
 # Hello there! 👋 😃
 
