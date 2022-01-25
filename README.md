@@ -23,7 +23,7 @@ Sientete libre de visitar [mis repositorios](https://github.com/ErTonix12?tab=re
 ### 📊 Estadísticas de GitHub 📊
 
 
-| [![ErTonix12's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErTonix12&show_icons=true&theme=dark&text_color=fff&border_color=79ff97&hide_title=true)](https://github.com/ErTonix12) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErTonix12&theme=dark&text_color=fff&border_color=79ff97&layout=compact)](https://github.com/ErTonix12) |
+| [![ErTonix12's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErTonix12&show_icons=true&theme=onedark&text_color=fff&border_color=79ff97&hide_title=true)](https://github.com/ErTonix12) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErTonix12&theme=onedark&text_color=fff&border_color=79ff97&layout=compact)](https://github.com/ErTonix12) |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ---
@@ -35,8 +35,16 @@ Sientete libre de visitar [mis repositorios](https://github.com/ErTonix12?tab=re
 ---
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Thanks+for+visiting!+You're+welcome!)](https://git.io/typing-svg)
+
+---
+
+### ✨ Algunos Proyectos ✨
+
+![ErTonix12's Notea Repo](https://github-readme-stats.vercel.app/api/pin/?username=ErTonix12&repo=Capacitor-Notea&theme=onedark&show_icons=true&text_color=fff&border_color=79ff97&layout=compact) ![ErTonix12's Notea Repo](https://github-readme-stats.vercel.app/api/pin/?username=ErTonix12&repo=Atriviate&theme=onedark&show_icons=true&text_color=fff&border_color=79ff97&layout=compact)
+
 <!--
 **ErTonix12/ErTonix12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://github-readme-stats.vercel.app/api/pin/?username=ErTonix12&repo=Capacitor-Notea&theme=tokyonight
 
 Here are some ideas to get you started:
 
