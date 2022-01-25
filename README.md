@@ -28,7 +28,7 @@ Sientete libre de visitar [mis repositorios](https://github.com/ErTonix12?tab=re
 
 ### 📫 Cómo contactarme 📫
 
-[![Github badge](https://img.shields.io/badge/ErTonix12-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ErTonix12) [![Gmail badge](https://img.shields.io/badge/tonicubero12@gmail.com-c5221f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tonicubero12@gmail.com)
+[![Github badge](https://img.shields.io/badge/ErTonix12-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ErTonix12) [![Linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoniomuñozcubero) [![Gmail badge](https://img.shields.io/badge/tonicubero12@gmail.com-c5221f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tonicubero12@gmail.com)
 
 ---
 
