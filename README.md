@@ -40,8 +40,12 @@ Sientete libre de visitar [mis repositorios](https://github.com/ErTonix12?tab=re
 
 ### ✨ Algunos Proyectos ✨
 
-![ErTonix12's Notea Repo](https://github-readme-stats.vercel.app/api/pin/?username=ErTonix12&repo=Capacitor-Notea&theme=onedark&show_icons=true&text_color=fff&border_color=79ff97&layout=compact) ![ErTonix12's Notea Repo](https://github-readme-stats.vercel.app/api/pin/?username=ErTonix12&repo=Atriviate&theme=onedark&show_icons=true&text_color=fff&border_color=79ff97&layout=compact)
+| [![ErTonix12's Notea Repo](https://github-readme-stats.vercel.app/api/pin/?username=ErTonix12&repo=Capacitor-Notea&theme=onedark&show_icons=true&text_color=fff&border_color=79ff97&layout=compact)](https://github.com/ErTonix12/Capacitor-Notea) | [![ErTonix12's Notea Repo](https://github-readme-stats.vercel.app/api/pin/?username=ErTonix12&repo=Atriviate&theme=onedark&show_icons=true&text_color=fff&border_color=79ff97&layout=compact)](https://github.com/ErTonix12/Atriviate) |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
+
+
+---
 <!--
 **ErTonix12/ErTonix12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://github-readme-stats.vercel.app/api/pin/?username=ErTonix12&repo=Capacitor-Notea&theme=tokyonight
