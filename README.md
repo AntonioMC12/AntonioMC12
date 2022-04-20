@@ -10,7 +10,7 @@ Mi nombre es Antonio, soy un estudiante de GS de Desarrollo de Aplicaciones Mult
 - Contribuir con proyectos de terceros;
 - ¡Ganar experiencia y conseguir nuevas ideas!
 
-Sientete libre de visitar [mis repositorios](https://github.com/ErTonix12?tab=repositories). Para dudas o sugerencias, por favor, abrid un Issue y lo solucionamos!
+Sientete libre de visitar [mis repositorios](https://github.com/AntonioMC12?tab=repositories). Para dudas o sugerencias, por favor, abrid un Issue y lo solucionamos!
 
 ---
 
@@ -23,14 +23,14 @@ Sientete libre de visitar [mis repositorios](https://github.com/ErTonix12?tab=re
 ### 📊 Estadísticas de GitHub 📊
 
 
-| [![ErTonix12's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErTonix12&show_icons=true&theme=onedark&text_color=fff&border_color=79ff97&hide_title=true)](https://github.com/ErTonix12) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErTonix12&theme=onedark&text_color=fff&border_color=79ff97&layout=compact)](https://github.com/ErTonix12) |
+| [![AntonioMC12's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonioMC12&show_icons=true&theme=onedark&text_color=fff&border_color=79ff97&hide_title=true)](https://github.com/AntonioMC12) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioMC12&theme=onedark&text_color=fff&border_color=79ff97&layout=compact)](https://github.com/AntonioMC12) |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ---
 
 ### 📫 Cómo contactarme 📫
 
-[![Github badge](https://img.shields.io/badge/ErTonix12-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ErTonix12) [![Linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoniomuñozcubero) [![Gmail badge](https://img.shields.io/badge/tonicubero12@gmail.com-c5221f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tonicubero12@gmail.com)
+[![Github badge](https://img.shields.io/badge/AntonioMC12-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AntonioMC12) [![Linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoniomuñozcubero) [![Gmail badge](https://img.shields.io/badge/tonicubero12@gmail.com-c5221f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tonicubero12@gmail.com)
 
 ---
 
@@ -40,15 +40,15 @@ Sientete libre de visitar [mis repositorios](https://github.com/ErTonix12?tab=re
 
 ### ✨ Algunos Proyectos ✨
 
-| [![ErTonix12's Notea Repo](https://github-readme-stats.vercel.app/api/pin/?username=ErTonix12&repo=Capacitor-Notea&theme=onedark&show_icons=true&text_color=fff&border_color=79ff97&layout=compact)](https://github.com/ErTonix12/Capacitor-Notea) | [![ErTonix12's Notea Repo](https://github-readme-stats.vercel.app/api/pin/?username=ErTonix12&repo=Atriviate&theme=onedark&show_icons=true&text_color=fff&border_color=79ff97&layout=compact)](https://github.com/ErTonix12/Atriviate) |
+| [![AntonioMC12's Notea Repo](https://github-readme-stats.vercel.app/api/pin/?username=AntonioMC12&repo=Capacitor-Notea&theme=onedark&show_icons=true&text_color=fff&border_color=79ff97&layout=compact)](https://github.com/AntonioMC12/Capacitor-Notea) | [![AntonioMC12's Notea Repo](https://github-readme-stats.vercel.app/api/pin/?username=AntonioMC12&repo=Atriviate&theme=onedark&show_icons=true&text_color=fff&border_color=79ff97&layout=compact)](https://github.com/AntonioMC12/Atriviate) |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 
 
 ---
 <!--
-**ErTonix12/ErTonix12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-https://github-readme-stats.vercel.app/api/pin/?username=ErTonix12&repo=Capacitor-Notea&theme=tokyonight
+**AntonioMC12/AntonioMC12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://github-readme-stats.vercel.app/api/pin/?username=AntonioMC12&repo=Capacitor-Notea&theme=tokyonight
 
 Here are some ideas to get you started:
 
